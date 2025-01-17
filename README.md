@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Secure Horizon [ M.R.C005 ]</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
-
+<meta name="google-site-verification" content="C2X2wgLjhHxK_i6M4FZpz32iQvCim6ytFfgjmZF12EY" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamidu200&label=Profile%20views&color=0e75b6&style=flat" alt="chamidu200" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamidu200" alt="chamidu200" /></a> </p>
